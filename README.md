@@ -6,6 +6,9 @@ This shouldn't be much of a use to you, but I wrote it because I wanted to do so
 In order to use it, simply pull the packages.xml file from your android device with ADB (or any other way) and feed it to the script. 
 
 optional arguments:
+
   -h, --help  show this help message and exit
+
   -i [I]      Packages.xml file's path.
+
   -o [O]      Output destination path of passwd file produced.
